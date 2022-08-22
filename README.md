@@ -1,25 +1,23 @@
 ## @jacobdockter
 
-### Profession
-Revel Media Group | Senior Lead Developer Enterprise Experiences
-JUN 2019 - PRESENT
+### Experience
+Revel Media Group | Senior Lead Developer Interactive & Enterprise Experiences  
+*JUL 2019 - PRESENT*  
 
-### Known Technologies
-- C#
-- VueJS
-- Python
-- Unity
-- Phaser3
-- EmberJS
-- AWS CDK
-- Docker
-- Terraform
-- Electron
-- MySQL
-- NoSQL
-- GraphQL
+Nelson Labs | Programmer Analyst II  
+*JUN 2018 - JUL 2019*  
 
-### Currently learning
+Revel Media Group | Junior Developer  
+*DEC 2016 - JUN 2018*
+
+### Technologies
+[C#][VueJS][Phaser3]  
+[Python][Unity][EmberJS]  
+[AWS][Docker][Terraform]  
+[MySQL][NoSQL][Electron]  
+[GraphQL][Javascript]  
+
+### Learning
 - Pen testing with Python
 - Web Sockets
 - Web Game Development
