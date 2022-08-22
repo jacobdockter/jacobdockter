@@ -7,6 +7,12 @@
 - Phaser3
 - EmberJS
 - AWS CDK
+- Docker
+- Terraform
+- Electron
+- MySQL
+- NoSQL
+- GraphQL
 
 ### Currently learning
 - Pen testing with Python
