@@ -1,6 +1,6 @@
 ## @jacobdockter
 
-## Profession
+### Profession
 Revel Media Group | Senior Lead Developer Enterprise Experiences
 JUN 2019 - PRESENT
 
