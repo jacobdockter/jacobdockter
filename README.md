@@ -1,4 +1,9 @@
 ## @jacobdockter
+
+## Profession
+Revel Media Group | Senior Lead Developer Enterprise Experiences
+JUN 2019 - PRESENT
+
 ### Known Technologies
 - C#
 - VueJS
