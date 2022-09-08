@@ -1,3 +1,5 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jacobdockter&theme=dark)](https://git.io/streak-stats)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jacobdockter.jacobdockter&left_color=green&right_color=red)
 ## @jacobdockter
 
 ### Experience
