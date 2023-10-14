@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="500" src="https://github.com/jacobdockter/jacobdockter/blob/main/sample_bg.png"/>
+  <img height="500" src="https://github.com/jacobdockter/jacobdockter/blob/main/jacobdockter_logo_with_social.png"/>
 </p>
 
 <p align="center">
@@ -24,9 +24,11 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApolloGraphQL-311C87.svg?&style=for-the-badge&logo=apollographql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot-ffffff.svg?&style=for-the-badge&logo=godot-engine&logoColor=white"/>
   <br><br>
-  <a href="https://twitter.com/voiceofdoc" target="_blank">
-    <img src="https://img.shields.io/badge/@VoiceOfDoc-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://x.com/jacobjdockter" target="_blank">
+    <img src="https://img.shields.io/badge/@jacobjdockter-000000.svg?&style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://jacobdockter.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-013560.svg?&style=for-the-badge"/>
