@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApolloGraphQL-311C87.svg?&style=for-the-badge&logo=apollographql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Godot-ffffff.svg?&style=for-the-badge&logo=godot-engine&logoColor=white"/>
   <br><br>
   <a href="https://x.com/jacobjdockter" target="_blank">
