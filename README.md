@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Senior Lead Developer Interactive & Enterprise Experiences
+  Senior Lead Developer (Full Stack)
   <br>
   @ Revel Media Group
   <br>
