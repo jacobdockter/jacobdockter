@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  Senior Lead Developer (Full Stack)
+  Software Engineer (Full Stack)
   <br>
-  @ Revel Media Group
+  @ UMB Bank
   <br>
   <br>
   <img src="https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
